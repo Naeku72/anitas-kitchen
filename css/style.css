@@ -54,3 +54,12 @@ background:rgba(250,250,250,0.9);
   padding-top: 5rem;
   font-size: 2rem;
 }
+#lunch:hover{
+  bottom: 0;
+  right: 0;
+background:rgba(250,250,250,0.9);
+  opacity: 0.9;
+  color: black;
+  overflow: hidden;
+  transition: .5s ease;
+}
