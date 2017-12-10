@@ -119,3 +119,26 @@ button{
   height: 420px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
 }
+#box1 .image1{
+  padding-left: 15px;
+  padding-top: 13px;
+}
+#box1 .image2{
+  padding-left: 15px;
+}
+#box2{
+  margin-top: 20px auto;
+  margin-left: 20px auto
+  position: relative;
+  width: 520px;
+  height: 420px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  padding-top: 15px;
+}
+#box2 .image3{
+  padding-left: 15px;
+  margin-right: 0px;
+}
+#box2 .image4{
+margin-right: 0px;
+}
