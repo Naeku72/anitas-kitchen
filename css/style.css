@@ -142,3 +142,8 @@ button{
 #box2 .image4{
 margin-right: 0px;
 }
+#burger{
+  background-image: url(../img/foodsBg.jpg);
+  height: 620px;
+  padding-top: 160px;
+}
