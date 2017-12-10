@@ -147,3 +147,46 @@ margin-right: 0px;
   height: 620px;
   padding-top: 160px;
 }
+#menus{
+  height: 350px;
+  padding-top: 20px;
+}
+#myNav2 li{
+  display: inline;
+  padding-right: 200px;
+}
+#myNav2 a{
+  font-weight: bold;
+  text-decoration: none;
+}
+.box{
+  argin-top: 20px auto;
+  margin-left: 20px auto
+  position: relative;
+  width: 90%;
+  height: 300px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  padding-top: 40px;
+}
+#subscribe{
+  background-image: url(../img/subscribe.jpg);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+  height: 400px;
+  padding-left: 350px;
+  margin-bottom: 0;
+  padding-top: 100px;
+}
+.btn{
+  background-color: #F15A29;
+  color: #ffffff;
+  width: 200px;
+  height: 45px;
+}
+#inlineFormInput{
+  width: 400px;
+  height: 45px;
+  background-color: white;
+  opacity: 0.3;
+}
