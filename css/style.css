@@ -49,3 +49,8 @@ background:rgba(250,250,250,0.9);
   overflow: hidden;
   transition: .5s ease;
 }
+#lunch{
+  background-image: url(../img/lunch.jpg);
+  padding-top: 5rem;
+  font-size: 2rem;
+}
