@@ -32,3 +32,11 @@
 #partyTime:hover{
   color: white
 }
+#happyParty{
+  padding-right: 0rem;
+}
+#breakfast{
+  background-image: url(../img/breakfast.jpg);
+  padding-top: 5rem;
+  font-size: 2rem;
+}
