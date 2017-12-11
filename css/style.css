@@ -43,9 +43,9 @@
 #breakfast:hover{
   bottom: 0;
   right: 0;
-background:rgba(250,250,250,0.9);
+  background:rgba(250,250,250,0.9);
   opacity: 0.9;
-  color: black;
+  color: #000;
   overflow: hidden;
   transition: .5s ease;
 }
@@ -57,7 +57,7 @@ background:rgba(250,250,250,0.9);
 #lunch:hover{
   bottom: 0;
   right: 0;
-background:rgba(250,250,250,0.9);
+  background:rgba(250,250,250,0.9);
   opacity: 0.9;
   color: black;
   overflow: hidden;
@@ -71,7 +71,7 @@ background:rgba(250,250,250,0.9);
 #dinner:hover{
   bottom: 0;
   right: 0;
-background:rgba(250,250,250,0.9);
+  background:rgba(250,250,250,0.9);
   opacity: 0.9;
   color: black;
   overflow: hidden;
@@ -113,7 +113,7 @@ button{
 }
 #box1{
   margin-top: 20px auto;
-  margin-left: 20px auto
+  margin-left: 20px auto;
   position: relative;
   width: 520px;
   height: 420px;
@@ -128,7 +128,7 @@ button{
 }
 #box2{
   margin-top: 20px auto;
-  margin-left: 20px auto
+  margin-left: 20px auto;
   position: relative;
   width: 520px;
   height: 420px;
@@ -140,7 +140,7 @@ button{
   margin-right: 0px;
 }
 #box2 .image4{
-margin-right: 0px;
+  margin-right: 0px;
 }
 #burger{
   background-image: url(../img/foodsBg.jpg);
